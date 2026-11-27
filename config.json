@@ -1,0 +1,21 @@
+{
+    "Bot Token": "Bot-Token-Goes-Here",
+    "Bot Prefix": "!",
+    "MongoDB Connection String": "Put-String-Here/",
+    "MongoDB Database Name": "Datebase-Name",
+    "Guild ID": GuildID,
+    "Embed Colour": "Colour-Hex",
+    "ClanCategoryID": Discord-Clan-Category,
+
+    "Roles": {
+        "Clan Leader Role": Clan-Leader,
+        "Co-Leader Role": Co-Leader,
+        "Staff Roles" : Staff-Role,
+    },
+
+    "Channels": {
+        "Accept Clan Request ChannelID": Accept-Channel,
+        "Clan Logs ChannelID": Logs-Channel,
+        "Clan Commands ChannelID": Clan-Commands-Channel
+    }
+}
